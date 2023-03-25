@@ -6,8 +6,9 @@ Leyton Jean Piere Castro
 Si tienes alguna pregunta o comentario respecto al desarrollo siempre puedes escribirme.  
 
 **Leyton Jean Piere Castro**  
-mail: ljpcastroc@gmail.com  
-LinkedIn: https://www.linkedin.com/in/ljpcastroc/
+**Mail:** ljpcastroc@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/ljpcastroc/
+
 
 *Harry Potter: «¿Pero por qué tiene que ir a la biblioteca?»*  
 *Ronald Weasley: «Porque eso es lo que Hermione hace cuando tiene alguna duda, ir a la biblioteca.»*  
