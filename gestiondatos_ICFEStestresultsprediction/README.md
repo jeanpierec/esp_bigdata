@@ -1,9 +1,8 @@
-# esp_bigdata
+# Gestión de datos - Proyecto final
 **Especialización en Big Data - Universidad Autónoma de Occidente**
 Leyton Jean Piere Castro
 
-¡Hola! Este repositorio lo utilicé durante mi paso por la Especialización en analítica de Big Data de la Universidad Autónoma de Occidente.  
-Si tienes alguna pregunta o comentario respecto al desarrollo siempre puedes escribirme.  
+¡Hola! Este es el proyecto final de la asignatura Gestion de datos. Se realizó una exploración para los puntajes del ICFES para los periodos 2019-02, 2020-01 y 2020-02 con un modelo de regresión XGBoost y un diagrama en PowerBi. El link de los datasets lo encuentras dentro del notebook principal (el notebook test son solo pruebas de ejecución).  
 
 **Leyton Jean Piere Castro**  
 **Mail:** ljpcastroc@gmail.com  
